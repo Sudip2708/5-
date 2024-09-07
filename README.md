@@ -1,3 +1,5 @@
+![Main picture](main_picture.jpg)
+
 # 5%
 
 Vítejte na mém repozitáři obsahujícím pomyslných 5 % konverzací, které se netýkají přímo práce.
