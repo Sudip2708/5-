@@ -1,0 +1,18 @@
+## Obsah:
+
+- [Je normální, že si pes tře uši o sníh?](#dotaz)
+
+---
+
+## Dotaz:
+
+Je normální, že si pes tře uši o sníh?
+
+## ChatGPT:
+
+Ano, je to poměrně normální chování u psů. Někteří psi si třou uši o různé povrchy, včetně sněhu, aby si ulevili svědění nebo nepříjemné pocity v uších. Pokud je však toto chování doprovázeno častým škrábáním, zarudnutím nebo zánětem uší, měli byste konzultovat s veterinářem, protože to může naznačovat problémy s ušima.
+
+
+[*Zpět na obsah*](#obsah)
+
+---

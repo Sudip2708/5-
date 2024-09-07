@@ -1,0 +1,59 @@
+## Obsah:
+
+- [Jaká je průměrná nejdelší délka života psa?](#dotaz)
+- [A jaká je maximální délka života psa?](#dotaz-1)
+- [A jaká je nejdelší délka života kočky?](#dotaz-2)
+- [Jak se říká filozofii nebo přístupu, která se věnuje zjišťování konečné odpovědi na daný problém?](#dotaz-3)
+
+---
+
+## Dotaz:
+
+Jaká je průměrná nejdelší délka života psa?
+
+## ChatGPT:
+
+Nejdáleší průměrná délka života psa se liší podle plemene a dalších faktorů, ale obecně se pohybuje kolem 10 až 13 let. Některá menší plemena mohou žít déle, zatímco větší plemena mají tendenci mít kratší životnost.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+A jaká je maximální délka života psa?
+
+## ChatGPT:
+
+Nejdelší zaznamenaná délka života psa byla kolem 29 let. Nicméně, to je extrémně neobvyklé a většina psů dosahuje maximálně kolem 15-20 let, v závislosti na plemeni a individuálních faktorech.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+A jaká je nejdelší délka života kočky?
+
+## ChatGPT:
+
+Nejdelší zaznamenaná délka života kočky byla 38 let. Nicméně, podobně jako u psů, to je extrémně neobvyklé. Většina koček dosahuje maximálně kolem 15-20 let, ale s pečlivou péčí a správným zdravotním režimem mohou některé kočky žít i déle.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+Jak se říká filozofii nebo přístupu, která se věnuje zjišťování konečné odpovědi na daný problém?
+
+## ChatGPT:
+
+Filozofie nebo přístup, který se věnuje zjišťování konečné odpovědi na daný problém, se nazývá dogmatismus. Tento přístup předpokládá existenci jednoznačně správných odpovědí na otázky a nepřipouští možnost jiných interpretací nebo alternativních řešení.
+
+[*Zpět na obsah*](#obsah)
+
+---

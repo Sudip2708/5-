@@ -1,0 +1,44 @@
+## Obsah:
+
+- [Existuje kulový blesk?](#dotaz)
+- [Kdy byl naposledy pozorován?](#dotaz-1)
+
+---
+
+## Dotaz:
+
+Existuje kulový blesk?
+
+## ChatGPT:
+
+Kulový blesk je vzácný a poměrně záhadný atmosférický jev, o kterém existuje mnoho svědectví, ale jeho přesná podstata a mechanismus nejsou zcela objasněny. Kulový blesk se obvykle popisuje jako jasná, kulovitá světelná koule, která se vznáší nad zemí a někdy se pohybuje, často během bouřky nebo krátce po ní.
+
+Vědecká komunita má několik teorií o tom, jak kulový blesk vzniká, ale žádná z nich nebyla jednoznačně prokázána. Některé z navrhovaných mechanismů zahrnují:
+
+1. **Chemické reakce:** Teorie, že kulový blesk vzniká díky chemickým reakcím v atmosféře.
+2. **Plazmový jev:** Hypotéza, že kulový blesk je druh plazmy, která je stabilizována v atmosféře.
+3. **Nanočástice:** Některé teorie naznačují, že kulový blesk může vznikat díky nanoprachovým částicím, které hoří.
+
+Ačkoliv je fenomén kulového blesku zaznamenán a svědectví o něm existují, kvůli jeho neobvyklosti a nevyzpytatelnosti je jeho studium obtížné a jeho existence a podstata stále nejsou plně objasněny.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+Kdy byl naposledy pozorován?
+
+## ChatGPT:
+
+Kulový blesk je jev, který je těžké přesně zaznamenat, protože se objevuje zřídka a nepředvídatelně. Proto neexistuje přesný záznam o jeho posledním pozorování. Svědectví o kulovém blesku se objevují z různých částí světa a mohou být hlášena kdykoliv, ale nejsou systematicky shromažďována.
+
+Například v roce 2012 byl údajně kulový blesk pozorován a natočen vědci v Číně během bouřky. Tento případ je jedním z mála, kdy byl fenomén zdokumentován za použití vědeckých přístrojů . Nicméně, většina pozorování pochází od jednotlivců a nejsou vědecky ověřena.
+
+Pokud máš konkrétní zájem o nedávná svědectví nebo vědecké studie týkající se kulového blesku, můžeš prozkoumat odbornou literaturu nebo zprávy o tomto jevu.
+
+
+[*Zpět na obsah*](#obsah)
+
+---

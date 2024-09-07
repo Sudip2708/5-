@@ -1,0 +1,93 @@
+## Obsah:
+
+- [Z čeho bere buňka energii pro růst a dělení?](#dotaz)
+- [Jak těžká by byla černá díra velikosti Slunce?](#dotaz-1)
+- [Jaký je průměr Slunce?](#dotaz-2)
+- [Kolik by vážila černá díra o průměru 1,4 milionu kilometrů?](#dotaz-3)
+- [Jaký největší průměr může mít černá díra?](#dotaz-4)
+- [Jakou velikost má černá díra o hmotnosti 10 milionů Sluncí?](#dotaz-5)
+
+---
+
+
+## Dotaz:
+
+Z čeho bere buňka energii pro růst a dělení?
+
+## ChatGPT:
+
+Buňky získávají energii především z procesu zvaného buněčné dýchání, kde glukóza (cukr) je rozkládána na energii a další látky. Tato energie je pak využívána pro růst a dělení buněk.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+Jak těžká by byla černá díra velikosti Slunce?
+
+## ChatGPT:
+
+Černé díry jsou extrémně husté a mají vysokou gravitaci. Černá díra o hmotnosti slunce by byla přibližně stejně těžká jako slunce, ale její poloměr by byl pouze několik kilometrů. To znamená, že by měla extrémně vysokou hustotu, což činí černé díry mimořádně exotickými objekty ve vesmíru.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+Jaký je průměr Slunce?
+
+## ChatGPT:
+
+Průměr Slunce je přibližně 1,4 milionu kilometrů. Tvoří točící se plynnou kouli plazmatu a je hlavním zdrojem světla a tepla pro naši sluneční soustavu.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+Kolik by vážila černá díra o průměru 1,4 milionu kilometrů?
+
+## ChatGPT:
+
+Průměr černé díry o velikosti 1,4 milionu kilometrů je nepravděpodobný, protože to přesahuje typické velikosti černých děr. Černé díry jsou obvykle popisovány hmotností, a ne průměrem. Pokud byste měli na mysli hmotnost podobnou Slunci (1 sluneční hmotnost), černá díra této hmotnosti by vážila přibližně tolik, co Slunce, tedy přibližně 2×10^30 kilogramů.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+Jaký největší průměr může mít černá díra?
+
+## ChatGPT:
+
+Průměr černé díry je spíše definován hmotností než přímo velikostí. Vzhledem k dosavadním pozorováním a teoretickým modelům není známo, že by existovaly černé díry s extrémně velkým průměrem. Největší černé díry, které byly dosud objeveny a pozorovány, mají hmotnosti řádu desítek miliard hmotností Slunce.
+
+Teoreticky by však mohly existovat černé díry s ještě větší hmotností, což by mohlo být spojeno s galaktickými jádry nebo hromadami galaxií, ale jejich přesná povaha a vlastnosti jsou stále předmětem výzkumu a spekulací.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+Jakou velikost má černá díra o hmotnosti 10 milionů Sluncí?
+
+## ChatGPT:
+
+Existuje matematická souvislost mezi hmotností černé díry a jejím tzv. Schwarzschildovým poloměrem, což je poloměr, při kterém by gravitační pole bylo dost silné, aby i světlo nemohlo uniknout (tzv. horizont událostí). Pro černou díru s hmotností 10 milionů sluncí by tento poloměr byl přibližně 30 milionů kilometrů.
+
+Toto není přímo průměr černé díry, protože černé díry jsou teoreticky bodové, a nemají skutečný "průměr" v tradičním smyslu. Schwarzschildův poloměr je však důležitým parametrem pro popis černých děr.
+
+
+[*Zpět na obsah*](#obsah)
+
+---

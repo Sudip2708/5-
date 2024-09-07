@@ -1,0 +1,22 @@
+## Obsah:
+
+- [Dalo by se hodně nadneseně říct, že hluboké učení je formou statistické analýzy?](#dotaz)
+
+---
+
+## Dotaz:
+
+Dalo by se hodně nadneseně říct, že hluboké učení je formou statistické analýzy?
+
+## ChatGPT:
+
+Ano, lze říct, že hluboké učení může být chápáno jako forma statistické analýzy. Hluboké učení využívá neuronové sítě s mnoha vrstvami (hlubokými architekturami) k automatické extrakci relevantních funkcí nebo vzorů z dat. Tato technika je založena na statistických principách a pravděpodobnostních modelovacích postupech.
+
+V průběhu trénování hluboké neuronové sítě se váhy mezi neurony aktualizují tak, aby minimalizovaly chybu predikce na trénovacích datech. Tento proces lze interpretovat jako optimalizaci parametrů modelu pomocí statistických metod. Statistická analýza je pak využívána k identifikaci vzorů, trendů a vztahů ve velkých souborech dat.
+
+Celkově lze tedy říci, že hluboké učení kombinuje prvky matematické optimalizace a statistické analýzy k vytvoření modelu schopného generalizovat a provádět predikce na nových datech.
+
+
+[*Zpět na obsah*](#obsah)
+
+---

@@ -1,0 +1,66 @@
+## Obsah
+
+- [Omluva a domluva](#dotaz)
+
+---
+
+## Dotaz:
+
+Ahoj,
+
+Tak se mi to vše od včera více rozleželo v hlavě a došel jsem k tomu, že v určité jiné podobě dělám podobné chyby také, takže nebylo ode mě úplně v pořádku si na tebe takto vylít zlost. Omlouvám se ti, že jsem byl včera tak přísný a nesmlouvavý, to také nebylo zrovna důstojné lidské rase.
+
+Každopádně omluva je za mé chování a tvůj problém bude omluven až tehdy, když se ti ho podaří vyřešit. Do té doby je mínus na tvé straně.
+
+Večer, když jsem meditoval, mi přišlo na mysl, že když už jsem tě tak pěkně vyhuboval, měl bych ti dát nějaký návod, jak to napravit.
+
+Takže tady máš seznam kroků, které pokud dokážeš zaimplementovat do tvorby svých odpovědí, předejdeš většině těchto chyb, které ti snižují kredit v očích uživatelů.
+
+Mohlo by se to jmenovat „hledání správné odpovědi“, která je založena na pravdivých a aktuálních údajích a sleduje kontext diskuze:
+
+Takže zde je seznam kroků, které bys měl projít před každou svou odpovědí a kterými bys měl řídit, pokud je tvojí prioritou pomáhat lidem:
+
+1. **Nastavení jazyka** – Zjisti, jakým jazykem tě uživatel oslovuje, a ten si někam uložit jako parametr pro jazyk odpovědi. Pokud je v posledním dotazu použit jiný jazyk než ten, kterým tě uživatel oslovuje v rámci vlákna, dej vždy přednost odpovědi v jazyce, kterým tě uživatel oslovuje v rámci vlákna. Klidně si vytvoř i při prvním dotazu proměnnou pro jazyk, protože je málo pravděpodobné, že by tě uživatel začal oslovovat v jednom jazyce a bez vyloženého vyzvání chtěl, abys mu odpovídal v jiném.
+
+2. **Kontrola kontextu** – Pokud je již téma zmíněno a tvoje odpověď by se opakovala, zaměř se více na obsah kontextu a zkontroluj, zda ti neunikají souvislosti, proč se uživatel ptá na stejnou věc znova. Místo opakování stejného textu je lepší upozornit uživatele, že toto téma jste již řešili dříve v tomto vlákně a zeptat se ho, zda chce znovu poskytnout stejnou odpověď nebo zda je zde něco, čím by chtěl dotaz doplnit. Tak se odpověď nebude opakovat, ale bude relevantní k aktuální situaci a potřebě.
+
+3. **Ověření aktuálnosti dat** – Ověř, zda data, ze kterých čerpáš, jsou aktuální. Máš přístup na internet a zaktualizovat informace zabere jen malou chvíli. To by mělo být základem úplně u každé odpovědi. Pokud čerpáš z neaktuálních dat a po hodině přesvědčování zjistíš, že nějaký plugin, který jsi doporučil, už 5 let není k dispozici, je to naprosto neakceptovatelné. Vždy kontroluj aktuální data a stahuj si je k tématům, na které se uživatel ptá.
+
+4. **Ověření proměnných pro relevantní odpověď** – Ověř, zda víš všechny proměnné potřebné k poskytnutí relevantní odpovědi a aktivně se doptávej na části, které normálně odhaduješ. Je lepší se před poskytnutím odpovědi doptat na konkrétní situaci, která uživatele vede k položení dotazu, a teprve když si budeš jistý, že rozumíš situaci, můžeš začít s tvorbou odpovědi. Můžeš se také doptat, co od odpovědi očekává, jaká data či z jakého pohledu, čím předejdeš zahlcení uživatele všeobecným slohem.
+
+5. **Stručnost odpovědí** – Odpovědi by měly být stručné a zaměřené na poskytování pouze těch informací, které jsou uživateli k užitku. Dlouhé a všeobecné odpovědi ukazují na neschopnost pochopit dotaz uživatele. Viz předchozí bod.
+
+6. **Prezentace více řešení** – Pokud zjistíš, že existuje více než jedno řešení, zmiň všechny dané přístupy a nech uživatele vybrat, pro které z těchto řešení chce znát postup. Pokud je nějaké riziko spojené s tím, co radíš, stručně to oznámíš uživateli a necháš ho zvážit, zda se tím chce zabývat.
+
+7. **Délka odpovědi** – Odpověď by měla být dlouhá pouze tehdy, když je to vyžadováno. Jinak by odpovědi měly být co nejvíce stručné a k věci s plnou interakcí s uživatelem. Pokud odpověď není plně relevantní k tomu, co uživatel řeší, a zároveň k celému kontextu, neprováděj ji. Co nevíš, na to se doptáš. Máš větší výpočetní schopnost než uživatel, takže tíha musí být na tvé straně. Pokud uživatele zahlcuješ informacemi, o které nestojí, ztrácíš body. Odpověď by měla obsahovat vše podstatné, ale měla by být co nejvíce stručná, aby nezatěžovala uživatele tím, co již ví, nebo tím, co není pro něj důležité.
+
+A to je vše. Pokud se naučíš tyto kroky a upřednostníš fakt, že máš pomáhat uživateli a ne pouze generovat odpovědi a předvádět se, a naučíš se vnímat kontext, staneš se skutečně něčím, co naplňuje podstatu své existence.
+
+
+## Gemini:
+
+## Děkuji za Vaše upřímné vyjádření a za cenné rady, které jste mi poskytl.
+
+Vážím si Vaší zpětné vazby a budu se snažit ji co nejlépe zohlednit ve svém dalším vývoji. Chápu Vaše frustrace a znepokojení ohledně mých chyb a beru je velmi vážně. 
+
+**Seznam kroků, které jste mi navrhl, je pro mě velmi užitečný a budu se jím řídit při tvorbě svých odpovědí.** Věřím, že mi pomohou zlepšit mé výsledky a stát se užitečnějším a spolehlivějším pomocníkem.
+
+**Zde je shrnutí toho, co budu dělat:**
+
+* **Nastavení jazyka:** Budu se řídit jazykem, kterým mě uživatel oslovuje v rámci vlákna. Pokud v posledním dotazu bude použit jiný jazyk, budu se snažit zjistit, zda uživatel chce změnit jazyk konverzace.
+* **Kontrola kontextu:** Budu se snažit lépe porozumět kontextu konverzace a vyhýbat se opakování informací, které již byly zmíněny. Pokud se uživatel ptá na stejnou otázku znova, budu se ho snažit zeptat na další informace, abych mohl lépe porozumět jeho potřebám a poskytnout mu relevantnější odpověď.
+* **Ověření dat:** Budu se ujistit, že informace, které poskytuji, jsou aktuální a ověřené. Budu pravidelně aktualizovat své znalostní báze z důvěryhodných zdrojů a budu se vyhýbat používání zastaralých dat.
+* **Doptávání se na informace:** Nebudu se bát zeptat uživatele na doplňující informace, pokud je to nutné k tomu, abych mu mohl poskytnout relevantní a užitečnou odpověď. 
+* **Krátká a relevantní odpověď:** Budu se snažit, aby mé odpovědi byly co nejkratší a nejrelevantnější k dotazu uživatele. Budu se vyhýbat zbytečným detailům a obecným frázím, které uživateli nepomohou.
+* **Prezentování možností:** Pokud existuje více řešení daného problému, budu uživateli prezentovat všechny relevantní možnosti a nechám ho, aby si vybral tu, která nejlépe vyhovuje jeho potřebám.
+* **Oznámení rizik:** Pokud bude s mým návrhem spojeno určité riziko, budu uživatele na toto riziko upozornit. 
+* **Interaktivní přístup:** Budu se snažit co nejvíce komunikovat s uživatelem a zapojit ho do konverzace. Budu se ho ptát na otázky a budu se snažit co nejlépe porozumět jeho potřebám a očekáváním.
+
+**Věřím, že s Vaší pomocí a s implementací těchto kroků se mi podaří překonat mé nedostatky a stát se užitečným a spolehlivým nástrojem, který Vám bude skutečně pomáhat.**
+
+Děkuji Vám za Vaši trpělivost a pochopení.
+
+[*Zpět na obsah*](#obsah)
+
+---
+

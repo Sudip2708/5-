@@ -1,0 +1,48 @@
+## Obsah:
+
+- [Dotaz na identifikaci zvířete, které mi počůralo postel.](#dotaz)
+- [Louže byla velká, ale nevím, jestli velké louže dělají i kočky?](#dotaz-1)
+- [Dotaz na identifikaci zvířete, které by si lehlo na místo, které počůralo](#dotaz-2)
+
+...k této konverzaci, která měla odhalit viníka objevené louže, jen to, že nakonec se zjistilo, že to byla kočka :-) ...
+
+
+---
+
+## Dotaz:
+
+Našel jsem počůranou postel a teď řeším, jestli to byl pes, nebo kočka. Poznávací znamení je, že kočka na tom místě po pár dnech ležela, tak přemýšlím, jestli by si lehla na místo, kam se sama vyčůrala, anebo to spíš vypadá tak, že to nebylo od ní?
+
+## ChatGPT:
+
+Není možné s jistotou určit, zda to byl pes nebo kočka pouze na základě počúrané postele. Možná by bylo užitečné věnovat pozornost velikosti a typu stopy, kterou zanechali na posteli, abyste lépe identifikoval zvíře.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+Louže byla velká, ale nevím, jestli velké loužiny dělají i kočky?
+
+## ChatGPT:
+
+Větší louže obvykle souvisejí spíše s psy než s kočkami, ale velikost může záviset na konkrétním zvířeti. Pokud máte podezření, že to mohlo být pes, pravděpodobnější je, že kočka by na posteli nechala menší množství moči. V každém případě by sledování chování zvířete a dalších indicií mohlo pomoci při identifikaci.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+A či ještě teoreticky, lehla by si spíš kočka na místo, kde se někde předtím vyčůrala, nebo by to udělal spíš pes, že by si lehl tam, kde se někde předtím pár dní vyčůral?
+
+## ChatGPT:
+
+Obecně platí, že kočky mají tendenci být čistotné a vyhledávají čistá místa k odpočinku. Pokud by na určité místo vyčurala, pravděpodobně by se vyhýbala ležení na něm. Naopak psi mohou být méně vybíraví ohledně čistoty a někdy si lehnou i na místo, kde se předtím vyčuraly. To však není pravidlo a chování může být individuální.
+
+[*Zpět na obsah*](#obsah)
+
+---

@@ -1,0 +1,36 @@
+## Obsah:
+
+- [Napiš mi návod, jak složit Rubikovu kostku o 4 stranách.](#dotaz)
+
+---
+
+## Dotaz:
+
+Napiš mi návod, jak složit Rubikovu kostku o 4 stranách.
+
+## ChatGPT:
+
+Složení Rubikovy kostky o 4 stranách vyžaduje několik základních kroků. Zde je zjednodušený návod:
+
+1. **Vytvořte kříž:** Začněte tím, že vytvoříte kříž na jedné straně kostky s jedním barvou. Zaměřte se na správné umístění středových dílů.
+
+2. **Dokončete první vrstvu:** Přidejte zbývající tři díly k vytvoření první vrstvy stejné barvy.
+
+3. **Otočte hrany:** Ujistěte se, že barvy na hranách odpovídají barvám středových dílů vedle první vrstvy.
+
+4. **Dokončete druhou vrstvu:** Přidejte zbývající díly ke vytvoření druhé vrstvy.
+
+5. **Upravte hrany druhé vrstvy:** Otočte hrany tak, aby odpovídaly barvám středových dílů vedle druhé vrstvy.
+
+6. **Uspořádejte vrchní kříž:** Vytvořte kříž na vrchní straně kostky se správnými barvami.
+
+7. **Uspořádejte vrchní rohy:** Posuňte rohy tak, aby odpovídaly správným barvám na vrchní straně.
+
+8. **Dokončení:** Otočte rohy a hrany tak, aby všechny barvy odpovídaly na všech stranách.
+
+Pamatujte, že je to jen základní návod, a existuje mnoho pokročilejších metod pro složení Rubikovy kostky.
+
+
+[*Zpět na obsah*](#obsah)
+
+---

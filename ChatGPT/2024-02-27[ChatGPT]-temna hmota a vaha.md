@@ -1,0 +1,50 @@
+## Obsah:
+
+- [Dotaz na to, zda by se zmenšila naše váha, pokud bychom neobsahovali temnou hmotu](#dotaz)
+- [Dotaz na to zda známe obsah temné hmoty v našem těle](#dotaz-1)
+- [Je možné přirovnat temnou hmotu k tomu, jak je voda důležitá pro rybu?](#dotaz-2)
+
+
+---
+
+## Dotaz:
+
+Pokud je temná hmota pro nás nedetekovatelná a víme, že je všude přítomná v hmotě, je možné, že kdybychom nějakým procesem odstranili veškerou temnou hmotu z našeho těla, naše váha by se také zmenšila, protože bychom vážili i s touto hmotou?
+
+## ChatGPT:
+
+Ano, pokud bychom byli schopni odstranit veškerou temnou hmotu z našeho těla, pravděpodobně bychom pozorovali změnu naší váhy. Temná hmota je přítomna ve vesmíru i v našem těle, ačkoli v malém množství. Její absence by tedy pravděpodobně způsobila drobné snížení naší hmotnosti, ale je důležité si uvědomit, že toto je teoretický koncept a zatím neexistuje způsob, jak odstranit temnou hmotu z našeho těla.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+Ale já mám za to, že ani nevíme, jaké množství temné hmoty obsahuje, řekněme, čtvereční centimetr našeho těla, a tím pádem ani hmotnost této temné hmoty uvnitř těla?
+
+## ChatGPT:
+
+Ano, máte pravdu. Aktuálně neznáme přesné množství temné hmoty obsažené v jednotlivých částech našeho těla. Proto by určení přesného dopadu odstranění temné hmoty na naši hmotnost bylo složité. Nicméně, vzhledem k tomu, že se temná hmota považuje za složku vesmíru, která má vliv na gravitaci, pravděpodobně by měla i nějaký vliv na naši hmotnost, byť by byl možná nepatrný.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+Je možné přirovnat temnou hmotu k tomu, jak je voda důležitá pro rybu?
+
+## ChatGPT:
+
+Ano, to je dobré srovnání. Pro nás je temná hmota přítomna ve vesmíru podobně jako je pro rybu voda v moři. Stejně jako ryby nejsou schopny vnímat vodu, protože jsou v ní ponořeny, my nejsme schopni vnímat temnou hmotu přímo, protože jsme obklopeni její přítomností ve vesmíru.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+
+

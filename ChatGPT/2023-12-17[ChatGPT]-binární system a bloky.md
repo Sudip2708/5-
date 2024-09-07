@@ -1,0 +1,203 @@
+## Obsah:
+
+- [Jak se v binárním systému oddělují jednotlivé bloky?](#dotaz)
+- [A jak je tato mezera reprezentovaná binárním kódem?](#dotaz-1)
+- [A jak tento binární kód vypadá?](#dotaz-2)
+- [Rozeber mi tenhle binární kód.](#dotaz-3)
+- [Binární kódy jsou vždy po osmi místech.](#dotaz-4)
+- [To znamená v binárním kódu 8 jedniček.](#dotaz-5)
+- [Co představuje binární kód: 11111111?](#dotaz-6)
+- [A kód: 00000000?](#dotaz-7)
+- [A v překladu binárního kódu se používá jen těchto 255 znaků?](#dotaz-8)
+- [ ASCII zpracovává bity jak?](#dotaz-9)
+- [ A Unicode pracuje s bity jak?](#dotaz-10)
+- [ Takže by se dalo na strukturu zápisu nahlížet jako na tenzor s bity?](#dotaz-11)
+
+
+---
+
+## Dotaz:
+
+Jak se v binárním systému oddělují jednotlivé bloky?
+
+## ChatGPT:
+
+V binárním systému se jednotlivé bloky často oddělují mezerou osmi bitů, což se nazývá byte. Bytes slouží k reprezentaci jednotlivých znaků nebo čísel.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+A jak je tato mezera reprezentovaná binárním kódem?
+
+## ChatGPT:
+
+V binárním kódu se mezera mezi jednotlivými byty nezobrazuje samostatně. Byty jsou pouze pospojovány a interpretovány jako celky. Mezera slouží spíše pro lidskou čitelnost a organizaci dat v binární podobě. Binární kód samotný obsahuje pouze sekvenci nul a jedniček, kde každý byte reprezentuje určitý znak nebo číslo.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+A jak tento binární kód vypadá?
+
+## ChatGPT:
+
+Binární kód se skládá z sekvence nul a jedniček. Například číslo 42 v binárním kódu může vypadat takto: `00101010`. Každý znak v tomto kódu reprezentuje jeden bit, a osm bitů tvoří jeden byte. Význam těchto bitů závisí na kontextu použití (například ASCII nebo Unicode pro znaky, čísla atd.). Binární kód je základní formou reprezentace informací v digitální podobě.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+Rozeber mi tenhle binární kód.
+
+## ChatGPT:
+
+Samozřejmě, rozeberme binární kód `00101010`:
+
+- První bit: `0` reprezentuje hodnotu 0.
+- Druhý bit: `0` reprezentuje hodnotu 0.
+- Třetí bit: `1` reprezentuje hodnotu 2^1, tedy 2.
+- Čtvrtý bit: `0` reprezentuje hodnotu 0.
+- Pátý bit: `1` reprezentuje hodnotu 2^2, tedy 4.
+- Šestý bit: `0` reprezentuje hodnotu 0.
+- Sedmý bit: `1` reprezentuje hodnotu 2^3, tedy 8.
+- Osmý bit: `0` reprezentuje hodnotu 0.
+
+Když tyto hodnoty sečteme (0 + 0 + 2 + 0 + 4 + 0 + 8 + 0), dostaneme celkovou hodnotu 14. Takže binární kód `00101010` v desítkové soustavě odpovídá číslu 14.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+Binární kódy jsou vždy po osmi místech?
+
+## ChatGPT:
+
+Ano, většinou jsou binární kódy organizovány do osmi bitů, což tvoří jeden byte. Každý bit může nabývat hodnoty 0 nebo 1. Bytes jsou často používány jako základní jednotky pro reprezentaci různých dat, například znaků v ASCII kódu, čísel nebo grafiky. Organizace do osmi bitů usnadňuje manipulaci s daty v digitální podobě.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+To znamená v binárním kódu 8 jedniček?
+
+## ChatGPT:
+
+Ano, přesně tak. Osm jedniček v binárním kódu tvoří jeden byte. Tím se vytváří základní jednotka pro reprezentaci informací v digitálním počítačovém systému. Každý bit v byte může být buď 0 nebo 1, což umožňuje širokou škálu kombinací a reprezentací různých hodnot.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+Co představuje binární kód: 11111111?
+
+## ChatGPT:
+
+Binární kód "11111111" představuje osm jedniček, což je ekvivalent jednoho bytu. V desítkové soustavě tato posloupnost představuje hodnotu 255, protože 2^0 + 2^1 + 2^2 + 2^3 + 2^4 + 2^5 + 2^6 + 2^7 = 255.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+A kód: 00000000?
+
+## ChatGPT:
+
+Binární kód "00000000" představuje osm nul, což je opět ekvivalent jednoho bytu. V desítkové soustavě tato posloupnost představuje hodnotu 0, protože všechny hodnoty jsou nuly: 2^0 + 2^1 + 2^2 + 2^3 + 2^4 + 2^5 + 2^6 + 2^7 = 0.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+A v překladu binárního kódu se používá jen těchto 255 znaků?
+
+## ChatGPT:
+
+Binární kód se často převádí na znaky pomocí různých znakových sad (charsetů). I když je možné reprezentovat znaky pomocí binárního kódu, který se vejde do rozsahu 0 až 255 (jeden byte), existují různé znakové sady, jako například ASCII, Unicode atd., které mohou reprezentovat více znaků a symbolů. ASCII například obsahuje znaky pro písmena, číslice, interpunkční znaménka a řídicí znaky.
+
+Pro rozšířené nebo mezinárodní kódování se často používá Unicode, který umožňuje reprezentovat znaky mnoha jazyků a symbolů. Unicode může používat více než jeden byte na znak, což umožňuje reprezentovat mnohem větší množství znaků než ASCII.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+SCII zpracovává bity jak?
+
+## ChatGPT:
+
+ASCII (American Standard Code for Information Interchange) používá sedm bitů pro kódování znaků. Původně byl ASCII navržen pro použití s 7bitovým kódem, což umožňovalo reprezentovat 128 různých znaků. Tato sadová znaků obsahovala písmena (velká a malá), číslice, interpunkční znaménka a řídicí znaky.
+
+Později bylo rozšířeno na 8bitový kód (ASCII Extended nebo ISO 8859-1), což umožnilo reprezentovat 256 různých znaků. Prvních 128 znaků zůstalo totožných s původním 7bitovým ASCII, zatímco zbývajících 128 znaků bylo využito pro různé znaky specifické pro různé jazyky a znakové sady.
+
+Je důležité poznamenat, že s nástupem Unicode, který umožňuje reprezentaci mnoha dalších znaků a symbolů z různých jazyků, se používání ASCII omezuje a je nahrazováno rozsáhlejšími a univerzálnějšími kódováními.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+A Unicode pracuje s bity jak?
+
+## ChatGPT:
+
+Unicode používá různé formáty pro kódování znaků, a jeden z nejběžnějších je UTF-8 (Unicode Transformation Format - 8-bit). UTF-8 je proměnné délky, což znamená, že může používat různý počet bitů pro reprezentaci jednotlivých znaků v závislosti na jejich kódu.
+
+Základní pravidlo UTF-8 je následující:
+- Pro znaky z původního ASCII (kódy 0-127) používá jednobytový zápis, který je kompatibilní s ASCII.
+- Pro další znaky používá vícebajtové zápisy. Čím vyšší je hodnota kódu, tím více bajtů se použije pro jeho reprezentaci.
+
+Například:
+- Jednobytový zápis: 0xxxxxxx
+- Dvoubytový zápis: 110xxxxx 10xxxxxx
+- Trojbajtový zápis: 1110xxxx 10xxxxxx 10xxxxxx
+- A tak dále.
+
+UTF-8 umožňuje efektivní reprezentaci různých znakových sad a je rozšířeným standardem pro kódování Unicode.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+Takže by se dalo na strukturu zápisu nahlížet jako na tenzor s bity?
+
+## ChatGPT:
+
+Strukturu zápisu Unicode, zejména v případě UTF-8, byste mohli interpretovat podobně jako tenzor, ve smyslu, že používáte více dimenzí (bajty) k reprezentaci jednoho znaku. Každý bajt může být vnímán jako jedna dimenze, a hodnota těchto bajtů určuje kódovaný znak.
+
+Takže ano, můžete to vnímat jako tenzor s bity, kde každá dimenze (bajt) nese informaci potřebnou k reprezentaci určité části Unicode znaku. Tato struktura umožňuje efektivní a variabilní kódování různých znakových sad, což je klíčové pro podporu mnoha jazyků a symbolů v rámci Unicode.
+
+[*Zpět na obsah*](#obsah)
+
+---

@@ -1,0 +1,51 @@
+## Obsah:
+
+- [Je pachová částice větší nebo menší než jedna molekula vody?](#dotaz)
+- [Z čeho jsou pachové částice složené?](#dotaz-1)
+- [Z kolika prvků se typicky skládají pachové částice a jaký prvek je hlavní součástí?](#dotaz-2)
+
+
+---
+
+## Dotaz:
+
+Je pachová částice větší nebo menší než jedna molekula vody?
+
+## ChatGPT:
+
+Pachové částice, které vnímáme nosem, jsou obvykle velmi malé částice látek, které mají specifické aromatické vlastnosti, které naše nosní receptory dokáží rozpoznat. Tyto částice mohou být velikostně různé, ale často jsou menší než jedna molekula vody, která má molekulární hmotnost přibližně 18 daltonů. Pachové látky mohou mít různou molekulární hmotnost, ale mnohé z nich jsou menší než voda, což umožňuje jejich snadnější transport vzduchem a vnímání nosem.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+Z čeho jsou pachové částice složené?
+
+## ChatGPT:
+
+Pachové částice jsou složeny z chemických látek nazývaných aromatické sloučeniny. Tyto sloučeniny mají často specifické chemické struktury, které umožňují, aby naše nosní receptory rozpoznaly jejich charakteristické vůně. Pachové látky mohou být organického nebo anorganického původu, ale ty, které jsou specificky vnímány čichem člověka, jsou obvykle organické sloučeniny. Příklady aromatických sloučenin zahrnují terpeny, fenoly, aldehydy, ketony, estery a další látky s výraznými vůněmi.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
+
+## Dotaz:
+
+Z kolika prvků se typicky skládají pachové částice a jaký prvek je hlavní součástí?
+
+## ChatGPT:
+
+Pachové částice mohou být složeny z různého počtu prvků, ale obvykle jsou tvořeny z několika základních prvků. Hlavními prvky, které se často vyskytují v pachových látkách, jsou uhlík (C), vodík (H), kyslík (O) a dusík (N). Tyto prvky jsou základními stavebními bloky organických molekul, které jsou často přítomny v pachových sloučeninách.
+
+Konkrétní složení pachových částic závisí na typu látky, která vůni produkuje. Například terpeny, které jsou často obsaženy v vonných rostlinách, jsou tvořeny pouze uhlíkem a vodíkem. Jiné složitější pachové látky mohou obsahovat i další prvky, jako jsou síra (S), fosfor (P) nebo halogeny (fluor, chlor, brom, jód).
+
+Celkově je složení pachových částic velmi rozmanité a závisí na konkrétních chemických látkách, které jsou přítomny v dané vůni či pachu.
+
+
+[*Zpět na obsah*](#obsah)
+
+---
