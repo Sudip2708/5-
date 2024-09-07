@@ -14,28 +14,28 @@ Cokoliv zde rozebírané a diskutované si tak neklade nárok na pravdu, jedná 
 ## Třídění dle kategorií
 
 ### [Vesmír](vesmir.md)  
-Vznik a vývoj vesmíru, temná hmota a černé díry
+- Vznik a vývoj vesmíru, temná hmota a černé díry
 
 ### [Mikrovesmír](mikrovesmir.md)
-Fyzika, chemie, elementární částice, světlo, teorie strun
+- Fyzika, chemie, elementární částice, světlo, teorie strun
 
 ### [Všemožné teorie](teorie.md)
-Všehochuť dotazů na různá pseudovědecká témata
+- Všehochuť dotazů na různá pseudovědecká témata
 
 ### [Počítače](pocitace.md)
-Dotazy na binární kód, Python a hluboké učení
+- Dotazy na binární kód, Python a hluboké učení
 
 ### [Dotazy na AI](dotazy_na_ai.md)
-Odlehčené povídání si s AI o ní a smyslu života
+- Odlehčené povídání si s AI o ní a smyslu života
 
 ### [Osobní dotazy](osobni_dotazy.md)
-Směs všemožných drobných dotazů na různá témata
+- Směs všemožných drobných dotazů na různá témata
 
 ### [Duchovnost](duchovnost.md)
-Dotazy dotýkající se duchovnosti a meditace
+- Dotazy dotýkající se duchovnosti a meditace
 
 ### [Nastavení AI](nastaveni_ai.md)
-Záznam konverzací ohledně chyb, které AI dělá, a snah jim předcházet
+- Záznam konverzací ohledně chyb, které AI dělá, a snah jim předcházet
 
 ## Třídění dle data 
 
@@ -636,3 +636,4 @@ Záznam konverzací ohledně chyb, které AI dělá, a snah jim předcházet
 ### [2023-12-02 Sudip (ChatGPT)](ChatGPT/ChatGPT-2023-12-02.md)
 - [Znáš jméno Sudip?](ChatGPT/ChatGPT-2023-12-02.md#dotaz)
 
+[*[zpátky na začátek]*](#5)
