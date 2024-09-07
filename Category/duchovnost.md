@@ -42,3 +42,5 @@
 - [Vědecký přístup k duchovním zkušenostem](../ChatGPT/ChatGPT-2024-08-11.md#dotaz-5)
 - [Nenápadné pronikání duchovnosti do vědomí lidí](../ChatGPT/ChatGPT-2024-08-11.md#dotaz-6)
 - [Logické zdůvodňování duchovnosti](../ChatGPT/ChatGPT-2024-08-11.md#dotaz-7)
+
+[*Zpět na úvodní stránku*](../README.md)

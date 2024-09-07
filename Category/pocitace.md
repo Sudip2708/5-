@@ -48,3 +48,5 @@
 - [Dotaz na výpočetní náročnost jednopísmenových vs. delších proměnných](../ChatGPT/ChatGPT-2024-01-27.md#dotaz-9)
 - [Dotaz na výpočetní zátěž při deklarování proměnných před použitím](../ChatGPT/ChatGPT-2024-01-27.md#dotaz-10)
 - [Dotaz na technické aspekty výkonu při deklarování proměnných a jejich vliv na operace](../ChatGPT/ChatGPT-2024-01-27.md#dotaz-11)
+
+[*Zpět na úvodní stránku*](../README.md)

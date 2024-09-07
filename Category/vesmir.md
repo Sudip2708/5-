@@ -107,3 +107,5 @@
 - [A dělal se nějaký výzkum, jestli prázdný prostor odpovídá tvarem bublinám?](../ChatGPT/ChatGPT-2024-08-14a.md#dotaz-3)
 - [A je tedy vesmír více podobný zmuchlanému papíru, nebo pěně bublinkové? ](../ChatGPT/ChatGPT-2024-08-14a.md#dotaz-4)
 - [Vesmír jako kapička inkoustu dopadající na papír](../ChatGPT/ChatGPT-2024-08-14a.md#dotaz-5)
+
+[*Zpět na úvodní stránku*](../README.md)

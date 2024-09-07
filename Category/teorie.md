@@ -75,3 +75,5 @@
 ### 2024-08-14 (ChatGPT)
 - [Dotaz na informace z přidaného dotazu o silách ve vesmíru](../ChatGPT/ChatGPT-2024-08-15.md#dotaz-8)
 - [Dotaz na Entropii](../ChatGPT/ChatGPT-2024-08-15.md#dotaz-9)
+
+[*Zpět na úvodní stránku*](../README.md)

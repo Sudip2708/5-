@@ -50,3 +50,5 @@
 ### 2024-08-06 (Gemini)
 - [Někde jsem se dočetl, že kapitán Robert Knox přivezl do Evropy Cannabis sativa. Je to tak?](../Gemini/Gemini-2024-08-06.md#dotaz)
 - [Dotaz na historii pěstování intoxikačního konopí v Evropě a jeho rozmach](../Gemini/Gemini-2024-08-06.md#dotaz-1)
+
+[*Zpět na úvodní stránku*](../README.md)

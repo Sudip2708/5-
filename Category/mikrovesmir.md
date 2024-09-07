@@ -167,3 +167,5 @@
 - [Upřesnění vlastností aplikace](../ChatGPT/ChatGPT-2024-08-11c.md#dotaz-10)
 - [Dotaz na výhodu Plankova systému a na konstantu pro hmotnost](../ChatGPT/ChatGPT-2024-08-11c.md#dotaz-11)
 - [Dotaz na Plankovu hmotnost](../ChatGPT/ChatGPT-2024-08-11c.md#dotaz-12)
+
+[*Zpět na úvodní stránku*](../README.md)

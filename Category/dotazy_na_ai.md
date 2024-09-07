@@ -32,3 +32,5 @@
 - [Nejjednodušší organismus s mozkem](../ChatGPT/ChatGPT-2024-08-11.md#dotaz-12)
 - [Porovnání nejjednoduššího mozku s počítači](../ChatGPT/ChatGPT-2024-08-11.md#dotaz-13)
 - [Srovnání počítače s jednoduchým mozkem](../ChatGPT/ChatGPT-2024-08-11.md#dotaz-14)
+
+[*Zpět na úvodní stránku*](../README.md)

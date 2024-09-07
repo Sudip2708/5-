@@ -166,6 +166,6 @@
 - [Dotaz na Entropii](../ChatGPT/ChatGPT-2024-08-15.md#dotaz-9)
 - [Závěr](../ChatGPT/ChatGPT-2024-08-15.md#dotaz-10)
 
-
+[*Zpět na úvodní stránku*](../README.md)
 
 
