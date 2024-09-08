@@ -148,10 +148,12 @@
 - [Dotaz na reakci z předchozí konverzace](../Gemini/Gemini-2024-04-20.md#dotaz)
 - [Rozbor této situace a závěr](../Gemini/Gemini-2024-04-20.md#dotaz-1)
 
-### 2024-08-14 (ChatGPT)
-- [Když minulou konverzaci dám archivovat, kde ji zase najdu?](../ChatGPT/ChatGPT-2024-08-14b.md#dotaz)
-- [A jak je to v prohlížečí Opera?](../ChatGPT/ChatGPT-2024-08-14b.md#dotaz-1)
-- [Upřesnění, kde jsem to našel](../ChatGPT/ChatGPT-2024-08-14b.md#dotaz-2)
+### 2024-08-13 (ChatGPT)
+- [Dotaz na zjištění datumu vytvoření vlákna](../ChatGPT/ChatGPT-2024-08-13.md#dotaz)
+- [Dotaz na zpětnou vazbu](../ChatGPT/ChatGPT-2024-08-13.md#dotaz-1)
+- [Dotaz na nastavení](../ChatGPT/ChatGPT-2024-08-13.md#dotaz-2)
+- [Dotaz na přepnutí se do archivu konverzací](../ChatGPT/ChatGPT-2024-08-13.md#dotaz-3)
+- [Zpětná vazba o tom, kde jsem našel archiv já](../ChatGPT/ChatGPT-2024-08-13.md#dotaz-4)
 
 ### 2024-08-14 (ChatGPT)
 - [Úvodní požadavek na kontrolu gramatiky](../ChatGPT/ChatGPT-2024-08-15.md#dotaz)

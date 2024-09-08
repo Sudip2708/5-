@@ -1,6 +1,25 @@
 # ChatGPT:
 
-## [2024-08-14 Vlastní iniciativa](ChatGPT-2024-08-15.md)
+## [2024-09-01 Užitečnost vosy](ChatGPT-2024-09-01.md)
+- [Jsou vosy společenské jako třeba včely a jak se množí?](ChatGPT-2024-09-01.md#dotaz)
+- [Znamená to, že v vosy žijí jeden rok a včely žijí déle?](ChatGPT-2024-09-01.md#dotaz-1)
+- [Jaké jsou evoluční hypotézy, proč se včelám utrhne žihadlo i se zadečkem?](ChatGPT-2024-09-01.md#dotaz-2)
+- [Jaký je přínos vosy na ekosystém?](ChatGPT-2024-09-01.md#dotaz-3)
+
+## [2024-08-22 Kondenzační čáry](ChatGPT-2024-08-22.md)
+- [Jaké jsou nejčastější důvody kondenzačních čárek za letadlem?](ChatGPT-2024-08-22.md#dotaz)
+- [Dotaz, zda se mohou objevit kondenzační páry i okamžitě](ChatGPT-2024-08-22.md#dotaz-1)
+- [Jak se říká člověku, který necítí emoce druhých?](ChatGPT-2024-08-22.md#dotaz-2)
+- [Napiš mi něco o Gaussovo křivce](ChatGPT-2024-08-22.md#dotaz-3)
+
+## [2024-08-19 Účinnost placeba](ChatGPT-2024-08-19.md)
+- [Jakou účinnost má placebo?](ChatGPT-2024-08-19.md#dotaz)
+
+## [2024-08-17 AI a IQ](ChatGPT-2024-08-17.md)
+- [Dotaz na porovníní IQ AI a člověka](ChatGPT-2024-08-17.md#dotaz)
+- [Dotaz na porovníní IQ AI a Holliho z Červeného trpaslíka](ChatGPT-2024-08-17.md#dotaz-1)
+
+## [2024-08-15 Vlastní iniciativa](ChatGPT-2024-08-15.md)
 - [Úvodní požadavek na kontrolu gramatiky](ChatGPT-2024-08-15.md#dotaz)
 - [Dotaz na dotaz, který v přibil po kontrole](ChatGPT-2024-08-15.md#dotaz-1)
 - [Dotaz na procesy předcházející vytvoření nového textu](ChatGPT-2024-08-15.md#dotaz-2)
@@ -13,18 +32,25 @@
 - [Dotaz na Entropii](ChatGPT-2024-08-15.md#dotaz-9)
 - [Závěr](ChatGPT-2024-08-15.md#dotaz-10)
 
-## [2024-08-14 Kouř a vesmírný příměr](ChatGPT-2024-08-14a.md)
-- [Kouř, jako přirovnání k hmotě ve vesmíru](ChatGPT-2024-08-14a.md#dotaz)
-- [Vesmír jako origami](ChatGPT-2024-08-14a.md#dotaz-1)
-- [Vesmír jako bublinová metafora](ChatGPT-2024-08-14a.md#dotaz-2)
-- [A dělal se nějaký výzkum, jestli prázdný prostor odpovídá tvarem bublinám?](ChatGPT-2024-08-14a.md#dotaz-3)
-- [A je tedy vesmír více podobný zmuchlanému papíru, nebo pěně bublinkové? ](ChatGPT-2024-08-14a.md#dotaz-4)
-- [Vesmír jako kapička inkoustu dopadající na papír](ChatGPT-2024-08-14a.md#dotaz-5)
+## [2024-08-14 Kouř a vesmírný příměr](ChatGPT-2024-08-14.md)
+- [Kouř, jako přirovnání k hmotě ve vesmíru](ChatGPT-2024-08-14.md#dotaz)
+- [Vesmír jako origami](ChatGPT-2024-08-14.md#dotaz-1)
+- [Vesmír jako bublinová metafora](ChatGPT-2024-08-14.md#dotaz-2)
+- [A dělal se nějaký výzkum, jestli prázdný prostor odpovídá tvarem bublinám?](ChatGPT-2024-08-14.md#dotaz-3)
+- [A je tedy vesmír více podobný zmuchlanému papíru, nebo pěně bublinkové? ](ChatGPT-2024-08-14.md#dotaz-4)
+- [Vesmír jako kapička inkoustu dopadající na papír](ChatGPT-2024-08-14.md#dotaz-5)
 
 ### [2024-08-14 Kde je archiv konverzace (ChatGPT)](ChatGPT/ChatGPT-2024-08-14b.md)
 - [Když minulou konverzaci dám archivovat, kde ji zase najdu?](ChatGPT/ChatGPT-2024-08-14b.md#dotaz)
 - [A jak je to v prohlížečí Opera?](ChatGPT/ChatGPT-2024-08-14b.md#dotaz-1)
 - [Upřesnění, kde jsem to našel](ChatGPT/ChatGPT-2024-08-14b.md#dotaz-2)
+
+## [2024-08-13 Datum vlákna](ChatGPT-2024-08-13.md)
+- [Dotaz na zjištění datumu vytvoření vlákna](ChatGPT-2024-08-13.md#dotaz)
+- [Dotaz na zpětnou vazbu](ChatGPT-2024-08-13.md#dotaz-1)
+- [Dotaz na nastavení](ChatGPT-2024-08-13.md#dotaz-2)
+- [Dotaz na přepnutí se do archivu konverzací](ChatGPT-2024-08-13.md#dotaz-3)
+- [Zpětná vazba o tom, kde jsem našel archiv já](ChatGPT-2024-08-13.md#dotaz-4)
 
 ## [2024-08-11 Severní Korea a karma](ChatGPT-2024-08-11a.md)
 - [Teorie o Severní Koreji jako místě potrestání](ChatGPT-2024-08-11a.md#dotaz)

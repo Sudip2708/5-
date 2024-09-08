@@ -101,11 +101,11 @@
 - [Dotaz, co by se stalo s míčkem dále](../Gemini/Gemini-2024-08-12.md#dotaz-3)
 
 ### 2024-08-14 (ChatGPT)
-- [Kouř, jako přirovnání k hmotě ve vesmíru](../ChatGPT/ChatGPT-2024-08-14a.md#dotaz)
-- [Vesmír jako origami](../ChatGPT/ChatGPT-2024-08-14a.md#dotaz-1)
-- [Vesmír jako bublinová metafora](../ChatGPT/ChatGPT-2024-08-14a.mddotaz-2)
-- [A dělal se nějaký výzkum, jestli prázdný prostor odpovídá tvarem bublinám?](../ChatGPT/ChatGPT-2024-08-14a.md#dotaz-3)
-- [A je tedy vesmír více podobný zmuchlanému papíru, nebo pěně bublinkové? ](../ChatGPT/ChatGPT-2024-08-14a.md#dotaz-4)
-- [Vesmír jako kapička inkoustu dopadající na papír](../ChatGPT/ChatGPT-2024-08-14a.md#dotaz-5)
+- [Kouř, jako přirovnání k hmotě ve vesmíru](../ChatGPT/ChatGPT-2024-08-14.md#dotaz)
+- [Vesmír jako origami](../ChatGPT/ChatGPT-2024-08-14.md#dotaz-1)
+- [Vesmír jako bublinová metafora](../ChatGPT/ChatGPT-2024-08-14.mddotaz-2)
+- [A dělal se nějaký výzkum, jestli prázdný prostor odpovídá tvarem bublinám?](../ChatGPT/ChatGPT-2024-08-14.md#dotaz-3)
+- [A je tedy vesmír více podobný zmuchlanému papíru, nebo pěně bublinkové? ](../ChatGPT/ChatGPT-2024-08-14.md#dotaz-4)
+- [Vesmír jako kapička inkoustu dopadající na papír](../ChatGPT/ChatGPT-2024-08-14.md#dotaz-5)
 
 [*Zpět na úvodní stránku*](../README.md)

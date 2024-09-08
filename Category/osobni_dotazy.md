@@ -51,4 +51,19 @@
 - [Někde jsem se dočetl, že kapitán Robert Knox přivezl do Evropy Cannabis sativa. Je to tak?](../Gemini/Gemini-2024-08-06.md#dotaz)
 - [Dotaz na historii pěstování intoxikačního konopí v Evropě a jeho rozmach](../Gemini/Gemini-2024-08-06.md#dotaz-1)
 
+### 2024-09-01 (ChatGPT)
+- [Jsou vosy společenské jako třeba včely a jak se množí?](../ChatGPT/ChatGPT-2024-09-01.md#dotaz)
+- [Znamená to, že v vosy žijí jeden rok a včely žijí déle?](../ChatGPT/ChatGPT-2024-09-01.md#dotaz-1)
+- [Jaké jsou evoluční hypotézy, proč se včelám utrhne žihadlo i se zadečkem?](../ChatGPT/ChatGPT-2024-09-01.md#dotaz-2)
+- [Jaký je přínos vosy na ekosystém?](../ChatGPT/ChatGPT-2024-09-01.md#dotaz-3)
+
+### 2024-08-22 (ChatGPT)
+- [Jaké jsou nejčastější důvody kondenzačních čárek za letadlem?](../ChatGPT/ChatGPT-2024-08-22.md#dotaz)
+- [Dotaz, zda se mohou objevit kondenzační páry i okamžitě](../ChatGPT/ChatGPT-2024-08-22.md#dotaz-1)
+- [Jak se říká člověku, který necítí emoce druhých?](../ChatGPT/ChatGPT-2024-08-22.md#dotaz-2)
+- [Napiš mi něco o Gaussovo křivce](../ChatGPT/ChatGPT-2024-08-22.md#dotaz-3)
+
+### 2024-08-19 (ChatGPT)
+- [Jakou účinnost má placebo?](../ChatGPT/ChatGPT-2024-08-19.md#dotaz)
+
 [*Zpět na úvodní stránku*](../README.md)

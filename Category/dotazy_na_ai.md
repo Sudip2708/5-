@@ -33,4 +33,8 @@
 - [Porovnání nejjednoduššího mozku s počítači](../ChatGPT/ChatGPT-2024-08-11.md#dotaz-13)
 - [Srovnání počítače s jednoduchým mozkem](../ChatGPT/ChatGPT-2024-08-11.md#dotaz-14)
 
+### 2024-08-17 (ChatGPT)
+- [Dotaz na porovníní IQ AI a člověka](../ChatGPT/ChatGPT-2024-08-17.md#dotaz)
+- [Dotaz na porovníní IQ AI a Holliho z Červeného trpaslíka](../ChatGPT/ChatGPT-2024-08-17.md#dotaz-1)
+
 [*Zpět na úvodní stránku*](../README.md)
